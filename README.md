@@ -2,6 +2,12 @@
 Teste para a Facilita Juridico
 
 
+Sistema:
+
+Ubuntu 20.04
+node: 18.0.0
+docker-compose: 1.29.2
+
 Instruções:
 
 git clone https://github.com/rogerbage/facilita-node-api-react.git
