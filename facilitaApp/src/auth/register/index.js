@@ -204,7 +204,7 @@ function Register() {
                 </MDTypography>
               )}
             </MDBox>
-            <MDBox display="none" alignItems="center" ml={-1}>
+            <MDBox display="flex" alignItems="center" ml={-1}>
               <Checkbox name="agree" id="agree" onChange={changeHandler} />
               <InputLabel
                 variant="standard"
